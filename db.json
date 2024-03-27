@@ -1,0 +1,39 @@
+{
+
+    "product":[
+        { 
+        "id": "1", 
+        "title": "Doğu Karadeniz Dağlarında <br>Bisikletle Geziyoruz #100",
+        "parag":"",
+        "image": "../images/content-video-thumbnail.png"
+        },
+        { 
+            "id": "2", 
+            "title": "Doğu Karadeniz Dağlarında <br>Bisikletle Geziyoruz #100",
+            "parag2":"",
+            "image": "../images/content-video-thumbnail (1).png"
+        },
+        { 
+            "id": "3", 
+            "title": "Doğu Karadeniz Dağlarında <br>Bisikletle Geziyoruz #100",
+            "parag2":"",
+            "image": "../images/content-video-thumbnail (2).png"
+        },
+        { 
+            "id": "4", 
+            "title": "Doğu Karadeniz Dağlarında <br>Bisikletle Geziyoruz #100",
+            "parag2":"",
+            "image": "../images/content-video-thumbnail (2).png"
+        }
+      
+    ],
+    "catagory":[
+        {
+            "id":"1",
+            "name":"Tüm Yol",
+            "fname":"Tümü"
+
+        }
+    ]
+
+}

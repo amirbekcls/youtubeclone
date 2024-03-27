@@ -1,0 +1,152 @@
+body {
+  background-color: black;
+}
+
+.header {
+  background-color: gray;
+}
+.header .container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.header .container .hamburger-img {
+  margin-top: 20px;
+}
+.header .container .logo .logo-a .logo-img {
+  margin-left: 50px;
+  margin-top: -30px;
+}
+.header .container .search-input {
+  width: 600px;
+  height: 35px;
+  background-color: gray;
+  border: 1px solid black;
+  color: rgb(190, 185, 185);
+  margin-left: 300px;
+  margin-top: -40px;
+  position: absolute;
+}
+.header .container .search-input::-moz-placeholder {
+  color: white;
+}
+.header .container .search-input::placeholder {
+  color: white;
+}
+.header .container .frame {
+  margin-left: 1200px;
+  margin-top: -90px;
+}
+.header .container .navbar .list-menu {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  margin-top: -10px;
+}
+
+.link-menu {
+  color: white;
+  text-decoration: none;
+}
+
+.link-menu:hover {
+  color: black;
+  transition: all 0.2s ease;
+}
+
+.navbar {
+  background-color: black;
+  width: 200px;
+  margin-top: 1px;
+  border: 1px solid gray;
+  height: 630px;
+}
+
+.navbar:first-child {
+  overflow: auto;
+}
+
+.home {
+  gap: 50px;
+}
+
+.list-menu3 {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+  margin-top: -10px;
+}
+
+.list-menu2 {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+  margin-left: -10px;
+}
+
+.item-menu:hover {
+  background-color: #fff;
+  transition: all 0.1s ease;
+}
+
+.card__title {
+  color: white;
+  margin-left: 34em;
+  margin-top: 5em;
+}
+
+.card {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  gap: 310px;
+  margin-top: -25em;
+  margin-left: -3em;
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+}
+
+.img__card {
+  position: absolute;
+  width: 220px;
+  height: 200px;
+  margin-top: -11em;
+  margin-left: 220px;
+}
+
+.title_card {
+  margin-left: 9em;
+  margin-top: -38em;
+  display: flex;
+  gap: 32px;
+  font-size: 10px;
+}
+
+.card2 {
+  display: flex;
+  gap: 310px;
+  margin-top: 12em;
+  margin-left: -3em;
+}
+
+.card2 img {
+  width: 200px;
+  height: 200px;
+}
+
+.title_card2 {
+  gap: 32px;
+  font-size: 10px;
+  margin-left: 9em;
+  margin-top: -3em;
+  display: flex;
+  padding-left: -10px;
+}/*# sourceMappingURL=style.css.map */
